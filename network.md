@@ -1,7 +1,7 @@
 # Home Network Documentation
 
 ## Logical and Physical Topologies
-!(Logical.png)
+![Logical](imagesLogical.png)
 
 ## Addressing Documentation
 
