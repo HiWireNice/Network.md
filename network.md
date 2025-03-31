@@ -2,6 +2,7 @@
 
 ## Logical and Physical Topologies
 ![Logical](Logical.png)
+![Physical](Physical.png)
 
 ## Addressing Documentation
 
